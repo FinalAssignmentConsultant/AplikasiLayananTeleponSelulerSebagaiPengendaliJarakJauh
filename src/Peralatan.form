@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.7" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <Events>
+    <EventHandler event="componentShown" listener="java.awt.event.ComponentListener" parameters="java.awt.event.ComponentEvent" handler="formComponentShown"/>
+  </Events>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+              <Component id="jTabbedPane1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace pref="45" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="147" max="-2" attributes="0"/>
+              <Component id="jTabbedPane1" min="-2" pref="393" max="-2" attributes="0"/>
+              <EmptySpace pref="81" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JTabbedPane" name="jTabbedPane1">
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout"/>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="jPanel1">
+          <Events>
+            <EventHandler event="componentShown" listener="java.awt.event.ComponentListener" parameters="java.awt.event.ComponentEvent" handler="jPanel1ComponentShown"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+              <JTabbedPaneConstraints tabName="tab1">
+                <Property name="tabTitle" type="java.lang.String" value="tab1"/>
+              </JTabbedPaneConstraints>
+            </Constraint>
+          </Constraints>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="btnSimpanNamaPeralatan" alignment="1" min="-2" max="-2" attributes="0"/>
+                          <Group type="102" alignment="1" attributes="0">
+                              <Group type="103" groupAlignment="1" attributes="0">
+                                  <Group type="103" alignment="1" groupAlignment="0" attributes="0">
+                                      <Group type="103" alignment="0" groupAlignment="1" attributes="0">
+                                          <Group type="102" alignment="1" attributes="0">
+                                              <Component id="alat5" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace min="6" pref="6" max="6" attributes="0"/>
+                                          </Group>
+                                          <Group type="102" alignment="1" attributes="0">
+                                              <Component id="alat4" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace min="6" pref="6" max="6" attributes="0"/>
+                                          </Group>
+                                          <Group type="102" alignment="1" attributes="0">
+                                              <Component id="alat3" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace min="6" pref="6" max="6" attributes="0"/>
+                                          </Group>
+                                          <Group type="102" alignment="1" attributes="0">
+                                              <Component id="alat1" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace min="6" pref="6" max="6" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                      <Component id="alat2" min="-2" max="-2" attributes="0"/>
+                                      <Component id="alat6" min="-2" max="-2" attributes="0"/>
+                                      <Component id="alat7" min="-2" max="-2" attributes="0"/>
+                                      <Component id="alat8" min="-2" max="-2" attributes="0"/>
+                                      <Component id="alat9" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Component id="alat10" alignment="1" min="-2" max="-2" attributes="0"/>
+                                  <Component id="alat13" min="-2" max="-2" attributes="0"/>
+                                  <Component id="alat14" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="txtAlat8" alignment="0" min="-2" pref="117" max="-2" attributes="0"/>
+                                  <Component id="txtAlat9" alignment="0" min="-2" pref="117" max="-2" attributes="0"/>
+                                  <Component id="txtAlat10" min="-2" pref="117" max="-2" attributes="0"/>
+                                  <Component id="txtAlat11" min="-2" pref="117" max="-2" attributes="0"/>
+                                  <Component id="txtAlat12" min="-2" pref="117" max="-2" attributes="0"/>
+                                  <Component id="txtAlat1" min="-2" pref="117" max="-2" attributes="0"/>
+                                  <Component id="txtAlat4" alignment="0" min="-2" pref="117" max="-2" attributes="0"/>
+                                  <Component id="txtAlat3" alignment="0" min="-2" pref="117" max="-2" attributes="0"/>
+                                  <Component id="txtAlat2" alignment="0" min="-2" pref="117" max="-2" attributes="0"/>
+                                  <Component id="txtAlat6" min="-2" pref="117" max="-2" attributes="0"/>
+                                  <Component id="txtAlat5" min="-2" pref="117" max="-2" attributes="0"/>
+                                  <Component id="txtAlat7" min="-2" pref="117" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace pref="155" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="alat1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="txtAlat1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="txtAlat2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="alat2" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="alat3" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="txtAlat3" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="alat4" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="txtAlat4" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="txtAlat6" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="alat6" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="txtAlat7" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="alat7" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="txtAlat8" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="alat8" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="txtAlat9" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="alat9" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="txtAlat10" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="alat10" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="alat13" min="-2" max="-2" attributes="0"/>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="txtAlat11" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="3" attributes="0">
+                                          <Component id="txtAlat12" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="alat14" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="alat5" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="txtAlat5" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="181" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace pref="15" max="32767" attributes="0"/>
+                      <Component id="btnSimpanNamaPeralatan" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JButton" name="btnSimpanNamaPeralatan">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Simpan"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnSimpanNamaPeralatanActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JLabel" name="alat14">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Alat 12"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="txtAlat12">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txtAlat11">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txtAlat10">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txtAlat9">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txtAlat8">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txtAlat7">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txtAlat6">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txtAlat5">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txtAlat4">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txtAlat2">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txtAlat1">
+            </Component>
+            <Component class="javax.swing.JTextField" name="txtAlat3">
+            </Component>
+            <Component class="javax.swing.JLabel" name="alat1">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Alat 1"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="alat2">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Alat 2"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="alat3">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Alat 3"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="alat4">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Alat 4"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="alat5">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Alat 5"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="alat6">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Alat 6"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="alat7">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Alat 7"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="alat8">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Alat 8"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="alat9">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Alat 9"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="alat10">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Alat 10"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="alat13">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Alat 11"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
